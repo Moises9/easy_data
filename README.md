@@ -1,2 +1,3 @@
 # easy_data
-Laboratórios para Análises de Dados
+
+Making easy uses the data
